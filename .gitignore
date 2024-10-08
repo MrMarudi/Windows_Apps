@@ -1,0 +1,9 @@
+/.DS_Store
+/.venv
+/build
+/dist
+/emails_exmaples.xlsx
+/node_modules
+/package-lock.json
+/test_emailfiles.py
+/דוח הזמנות פתוחות בפקס, י. גיל ומדטכניקה.xlsx
