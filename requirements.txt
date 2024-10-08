@@ -4,4 +4,3 @@ pandas
 openpyxl
 zipfile36
 typing_extensions
-pip install pywin32
